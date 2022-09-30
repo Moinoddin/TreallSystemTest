@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.treallo.qa.testcase.TrealloSystemTest" duration-ms="62977" started-at="2022-09-30T09:08:18 IST" finished-at="2022-09-30T09:09:21 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="62977" started-at="2022-09-30T09:08:18 IST" finished-at="2022-09-30T09:09:21 IST">
+      <class name="com.treallo.qa.testcase.TrealloSystemTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.treallo.qa.testcase.TrealloSystemTest@7494e528]" name="setup" is-config="true" duration-ms="11106" started-at="2022-09-30T09:08:18 IST" finished-at="2022-09-30T09:08:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpageTest()[pri:0, instance:com.treallo.qa.testcase.TrealloSystemTest@7494e528]" name="loginpageTest" duration-ms="50790" started-at="2022-09-30T09:08:29 IST" finished-at="2022-09-30T09:09:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.treallo.qa.testcase.TrealloSystemTest@7494e528]" name="teardown" is-config="true" duration-ms="995" started-at="2022-09-30T09:09:20 IST" finished-at="2022-09-30T09:09:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.treallo.qa.testcase.TrealloSystemTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.treallo.qa.testcase.TrealloSystemTest -->
+</testng-results>
